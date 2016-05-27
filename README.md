@@ -1,2 +1,3 @@
 # hello-world
-this is a repository
+
+Hi guys this is an edited file and i'm new in github .
